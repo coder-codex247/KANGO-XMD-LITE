@@ -12,32 +12,32 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your kango session id here; must start with KANGO~",
-      "value": "",
+      "value": "KANGO~ty1lTZAD#IyfK1pvH8bTGUkbcOoBVAe5IenZiVujcd3q1wqqxTRo",
       "required": false
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "Kango-Bot",
+      "value": "𝐽𝑒𝑚 𝑙𝑜𝑣𝑒 💗",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "value": "2348058496605",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "💜⟭⟬༄✿𝐽𝑒𝑚𝑧𝑖𝑒 𝐷𝑖𝑣𝑎⁷✿𝒹ₐᵣₖ¥⟬⟭࿐💜",
       "required": true
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "Kango",
+      "value": "𝕯𝖎𝖛𝖆",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
-      "value": "Kango",
+      "value": "Jem 🤍",
       "required": false
     },
     "HEROKU_API_KEY": {
